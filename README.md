@@ -13,7 +13,5 @@ I carried out this project independently alongside my studies, revisiting a proj
 </p>
 
 <p align="center">
-  <video src="media/self_balancing.mp4" width="100%" autoplay loop muted playsinline controls>
-    Votre navigateur ne supporte pas la lecture de vidéos.
-  </video>
+  <img src="media/self_balancing.webp" alt="Démonstration du robot" width="100%" />
 </p>
