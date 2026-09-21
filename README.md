@@ -15,3 +15,10 @@ I carried out this project independently alongside my studies, revisiting a proj
 <p align="center">
   <img width="393" src="media/self_balancing.webp" alt="Démonstration du robot" />
 </p>
+
+--FRANCAIS--
+Si souhaité, ce robort peut-être transformé en robot télécommandé, il suffit simplement de créer un serveur web sur l'EPS32 et d'y ajouter une modification de la consigne d'angle, ou de set un pitch/roll cible. 
+
+--ENGLISH
+
+If desired, this robot can be converted into a remote-controlled robot; you simply need to create a web server on the ESP32 and add a way to modify the angle setpoint or specify a target pitch/roll.
