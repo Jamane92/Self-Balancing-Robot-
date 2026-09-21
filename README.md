@@ -13,5 +13,5 @@ I carried out this project independently alongside my studies, revisiting a proj
 </p>
 
 <p align="center">
-  <img src="media/self_balancing.webp" alt="Démonstration du robot" width="100%" />
+  <img width="393" src="media/self_balancing.webp" alt="Démonstration du robot" />
 </p>
