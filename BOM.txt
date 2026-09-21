@@ -1,0 +1,7 @@
+2x NEMA 17 DC motor 
+2x DRV8825 motor driver
+1x 3S1P Lipo battery 
+1x ESP32 generic module 
+1x Mini360 buck-down 
+1x MPU-6050
+1x SSD1306 OLED 
