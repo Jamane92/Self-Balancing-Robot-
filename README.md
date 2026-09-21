@@ -8,4 +8,6 @@ Ce projet à été réalisé individuellement en parallèle de mes études, repr
 
 I carried out this project independently alongside my studies, revisiting a project we had originally completed during our first year of engineering school (ING1) at ECE Paris. This time, however, instead of using a kit where everything was pre-designed and provided, I challenged myself to build the entire thing from scratch—from 3D modeling and PCB design to programming the PID controller.
 
-<img width="393" height="606" alt="Self_Balancing" src="https://github.com/user-attachments/assets/a890c99d-8c80-4814-a75c-9c0a80573a46" />
+<p align="center">
+  <img width="393" height="606" alt="Self_Balancing" src="https://github.com/user-attachments/assets/a890c99d-8c80-4814-a75c-9c0a80573a46" />
+</p>
