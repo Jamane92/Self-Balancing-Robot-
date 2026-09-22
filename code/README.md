@@ -10,5 +10,5 @@ Voici un site qui expliquera mieux que moi le concept de cet algorithme de contr
 
 --ENGLISH--
 
-The code is based on an automation concept used worldwide: PID. Here is what it looks like in theory:
+The code is based on an automation concept used worldwide: PID. Here up there is what it looks like in theory.
 Here is a site that explains the concept of this control algorithm better than I can: https://www.wattco.com/fr/2024/07/controleur-pid-explique/
