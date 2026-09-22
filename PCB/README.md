@@ -16,11 +16,11 @@ Here is the PCB section of the project; I have provided all the necessary docume
 
 --FRANCAIS--
 
-Et voici le routage, gardez à l'esprit que c'est mon tout premier PCB, avec que des composants THT, sans copper zone, sans plan de masse correct garantissant des EMI basses et une intégrité du signal, même si sur ce genre d'application, on est loin d'avoir ce genre de problème. 
+Et voici le routage, gardez à l'esprit que c'est mon tout premier PCB, avec que des composants THT, sans copper zone pour la puissance par exemple, sans plan de masse correct garantissant des EMI basses et une intégrité du signal, même si sur ce genre d'application, on est loin d'avoir ce genre de problème. L'important pour moi à ce moment là, c'était que ca marche, pour me donner la confiance d'aller sur des projets plus poussés.
 
 --ENGLISH--
 
-And here is the routing; keep in mind that this is my very first PCB, using only through-hole components, with no copper pour and no proper ground plane to ensure low EMI and signal integrity—though for this type of application, such issues are far from being a concern.
+And here is the routing; keep in mind that this is my very first PCB, using only through-hole components, with no copper pour and no proper ground plane to ensure low EMI and signal integrity—though for this type of application, such issues are far from being a concern. The important thing for me at that point was for it to work, to give me the confidence to take on more advanced projects.
 
 <p align="center">
 <img width="535" height="581" alt="robot" src="https://github.com/user-attachments/assets/22f15d70-4ec0-4f1b-988c-fe81fdcc5ca4" />
